@@ -42,4 +42,3 @@ See `/research/sources.md` for the complete annotated list and justification for
 - `/research/sources.md` - Annotated list of 10 selected experts.
 - `/research/youtube-transcripts/` - Raw video transcripts pulled via `youtube-transcript-api`.
 - `/research/linkedin-posts/` - Collected LinkedIn content focusing on outbound tactics.
-- `/research/other/` - Deliverability checklists and technical setup guides.
