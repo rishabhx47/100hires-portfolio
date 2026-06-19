@@ -1,0 +1,32 @@
+# LinkedIn Post Template 2 — Christian Krause
+
+- **Expert:** Christian Krause
+- **Focus area:** European/SaaS outbound tactics and LinkedIn social selling.
+- **LinkedIn profile:** https://www.linkedin.com/in/christian-krause
+- **Template created:** 2026-06-19 14:07 UTC
+
+## Instructions
+1. Open the expert's LinkedIn profile and sort by recent posts.
+2. Find a post focused on outbound tactics, cold email, or SDR workflows.
+3. Paste the full post content below (keep formatting where possible).
+4. Add your notes on why this post is high-signal for the playbook.
+
+## Post Metadata
+- **Post URL:**
+- **Post date:**
+- **Engagement (likes/comments):**
+- **Topic tag:** (e.g., sequencing, deliverability, objection handling)
+
+## Post Content
+<!-- Paste the LinkedIn post text here -->
+
+## Analyst Notes
+<!-- Why this post matters for the B2B SaaS cold outreach playbook -->
+
+## Key Takeaways
+- 
+- 
+- 
+
+## Source Context
+*Why this expert was selected:* Excellent at bridging the gap between automated cold outbound and relationship-driven social selling.
